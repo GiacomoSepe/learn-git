@@ -6,4 +6,4 @@ https://youtu.be/RGOj5yH7evk
 
 ## still learning
 
-tutorial on youtube is good. 
+tutorial on youtube is good. But had to change ssh keys.
